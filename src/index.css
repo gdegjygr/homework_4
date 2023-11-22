@@ -14,7 +14,7 @@ code {
 
 
 body {
-  overflow-y: hidden;
+  overflow-x: hidden;
   width: 100%;
   height: 100vh;
   background: linear-gradient(149deg, rgb(240, 34, 34) 0%, rgb(240, 34, 78) 42%, rgb(217, 208, 35) 60%, rgb(104, 32, 108) 99%);
